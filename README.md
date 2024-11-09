@@ -10,3 +10,5 @@
 - shutdown.py
 
 Rangkaian : 
+
+![image](https://github.com/user-attachments/assets/1108ed65-665b-4fc9-b0dc-94eab714b1ca)
